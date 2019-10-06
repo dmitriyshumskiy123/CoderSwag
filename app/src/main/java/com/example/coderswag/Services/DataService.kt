@@ -44,5 +44,5 @@ object DataService {
             else -> digitalGood
         }
     }
-    
+
 }
